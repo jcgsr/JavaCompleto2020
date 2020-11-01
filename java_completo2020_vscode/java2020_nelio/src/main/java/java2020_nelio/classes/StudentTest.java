@@ -3,12 +3,12 @@ package java2020_nelio.classes;
 import java.util.Scanner;
 
 public class StudentTest {
-   // 31.10.2020 Susi no hospital e Negão tbm...
+   // 01.11.2020 Susi no hospital e Negão tbm...
 
    public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
       Student s = new Student();
-
+e
       System.out.println("Student's name: ");
       s.name = sc.nextLine();
       System.out.println("Nota 1: ");

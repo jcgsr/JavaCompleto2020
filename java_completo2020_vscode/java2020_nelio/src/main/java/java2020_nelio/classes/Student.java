@@ -1,7 +1,7 @@
 package java2020_nelio.classes;
 
 public class Student {
-   // 31.10.2020 Susi no hospital e Negão tbm...
+   // 01.11.2020 Susi no hospital e Negão tbm...
 
    String name;
    double n1, n2, n3, total;
