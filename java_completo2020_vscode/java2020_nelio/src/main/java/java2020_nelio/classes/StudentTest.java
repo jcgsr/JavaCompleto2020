@@ -8,7 +8,7 @@ public class StudentTest {
    public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
       Student s = new Student();
-e
+
       System.out.println("Student's name: ");
       s.name = sc.nextLine();
       System.out.println("Nota 1: ");
