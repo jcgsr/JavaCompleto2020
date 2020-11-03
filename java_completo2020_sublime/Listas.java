@@ -28,10 +28,10 @@ public class Listas {
 
 
 		int n = input.nextInt();
-		double[] vect = new double[n];
+		int[] vect = new int[n];
 
 		for (int i = 0; i < n; i++) {
-			vect[i] = input.nextDouble();
+			vect[i] = input.nextInt();
 		}
 
 		double sum = 0.0;
@@ -44,5 +44,20 @@ public class Listas {
 		System.out.printf("AVERAGE HEIGHT %.2f\n", avg);
 
 		input.close();
+
+		// int[] c = {23, 23, 12, 4,55, 634, 23};
+		// System.out.printf("%s%8s%n", "Index", "Value");
+
+		// for (int i = 0; i < c.length; i++) {
+		// 	System.out.printf("%5d%8d%n", i, c[i]);
+		// }
+
+		// Scanner sc = new Scanner(System.in);
+
+		// System.out.println("Número:");
+		// int x = sc.nextInt();
+
+		// System.out.println();
+		// System.out.println(x);
 	}
 }
