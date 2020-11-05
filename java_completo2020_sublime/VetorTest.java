@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // 03.11.2020 - Começando a entender arrays
-public class ArrayTest {
+public class VetorTest {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);		
 

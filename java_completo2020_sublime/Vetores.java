@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Listas {
+public class Vetores {
 
 	// 03.11.2020 Susi no hospital... Negão ainda no hospital... Aniversário da Piriquita...
 
